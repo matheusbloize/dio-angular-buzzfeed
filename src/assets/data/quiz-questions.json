@@ -1,69 +1,69 @@
 {
-  "title": "Você seria um heroi ou vilão ?",
+  "title": "Você prefere séries ou desenhos?",
   "questions": [
     {
       "id": 1,
-      "question": "1 Qual super poder você escolheria ?",
+      "question": "1 Qual super poder você se interessa mais?",
       "options": [
-        {"id": 1, "name": "Raios-Lasers", "alias": "A"},
-        {"id": 2, "name": "Voar", "alias": "B"},
-        {"id": 3, "name": "Explodir coisas", "alias": "A"},
-        {"id": 4, "name": "Curar feridas", "alias": "B"},
-        {"id": 5, "name": "Soltar fogo pelas mãos", "alias": "A"},
-        {"id": 5, "name": "Ajudar", "alias": "B"}
+        {"id": 1, "name": "Virar um titã", "alias": "A"},
+        {"id": 2, "name": "Velocidade sobre-humana", "alias": "B"},
+        {"id": 3, "name": "Controlar os elementos", "alias": "A"},
+        {"id": 4, "name": "Recuperação imediata", "alias": "B"},
+        {"id": 5, "name": "Ter um corpo de borracha", "alias": "A"},
+        {"id": 5, "name": "Teletransporte", "alias": "B"}
       ]
     },
     {
       "id": 2,
-      "question": "2 Quem você salvaria primeiro ?",
+      "question": "2 Como seria um estilo de mundo fictício ideal?",
       "options": [
-        {"id": 1, "name": "Crianças", "alias": "A"},
-        {"id": 2, "name": "Idosos", "alias": "A"},
-        {"id": 3, "name": "Não saberia escolher", "alias": "B"},
-        {"id": 4, "name": "Não saberia escolher", "alias": "B"},
-        {"id": 5, "name": "Não saberia escolher", "alias": "B"},
-        {"id": 6, "name": "Não saberia escolher", "alias": "B"}
+        {"id": 1, "name": "Pós-apocalíptico", "alias": "B"},
+        {"id": 2, "name": "Países e Reinos", "alias": "A"},
+        {"id": 3, "name": "Cyberpunk", "alias": "A"},
+        {"id": 4, "name": "Galáxias", "alias": "B"},
+        {"id": 5, "name": "Robôs, aliens e muita tecnologia", "alias": "A"},
+        {"id": 6, "name": "Super-heróis", "alias": "B"}
       ]
     },
     {
       "id": 3,
-      "question": "3 Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "3 Qual aspecto da obra lhe interessa mais?",
       "options": [
-        {"id": 1, "name": "Não destruir prédios", "alias": "B"},
-        {"id": 2, "name": "Socar a cara do inimigo", "alias": "A"},
-        {"id": 3, "name": "Não sujar meu traje", "alias": "A"},
-        {"id": 4, "name": "Não deixar ninguém se ferir", "alias": "B"},
-        {"id": 5, "name": "Não deixar ninguém se ferir", "alias": "B"},
-        {"id": 6, "name": "Não deixar ninguém se ferir", "alias": "B"}
+        {"id": 1, "name": "Roteiro", "alias": "B"},
+        {"id": 2, "name": "Animação", "alias": "A"},
+        {"id": 3, "name": "Dublagem", "alias": "A"},
+        {"id": 4, "name": "Elenco", "alias": "B"},
+        {"id": 5, "name": "Efeitos especiais", "alias": "B"},
+        {"id": 6, "name": "Fidelidade", "alias": "A"}
       ]
     },
     {
       "id": 4,
-      "question": "4 Qual o seu maior foco ?",
+      "question": "4 O que seus personagens favoritos gostam de fazer?",
       "options": [
-        {"id": 1, "name": "Ficar rico com poderes", "alias": "A"},
-        {"id": 2, "name": "Salvar a cidade", "alias": "B"},
-        {"id": 3, "name": "Salvar a cidade", "alias": "B"},
-        {"id": 4, "name": "Salvar a cidade", "alias": "B"},
-        {"id": 5, "name": "Salvar a cidade", "alias": "B"},
-        {"id": 6, "name": "Salvar a cidade", "alias": "B"}
+        {"id": 1, "name": "Comer até virar uma bola", "alias": "A"},
+        {"id": 2, "name": "Conseguir dinheiro para a família", "alias": "B"},
+        {"id": 3, "name": "Treinar para ser o melhor", "alias": "A"},
+        {"id": 4, "name": "Acabar com o preconceito entre raças", "alias": "A"},
+        {"id": 5, "name": "Esbanjar que é o mais forte", "alias": "B"},
+        {"id": 6, "name": "Ver TV e beber", "alias": "B"}
       ]
     },
     {
       "id": 5,
-      "question": "5 Qual o seu apelido de super ser ?",
+      "question": "5 Qual destes personagens você conhece melhor?",
       "options": [
-        {"id": 1, "name": "O Terrivel", "alias": "A"},
-        {"id": 2, "name": "Amigo da vizinhança", "alias": "B"},
-        {"id": 3, "name": "Amigo da vizinhança", "alias": "B"},
-        {"id": 4, "name": "Amigo da vizinhança", "alias": "B"},
-        {"id": 5, "name": "Amigo da vizinhança", "alias": "B"},
-        {"id": 6, "name": "Amigo da vizinhança", "alias": "B"}
+        {"id": 1, "name": "Aang", "alias": "A"},
+        {"id": 2, "name": "Eleven", "alias": "B"},
+        {"id": 3, "name": "Negan", "alias": "B"},
+        {"id": 4, "name": "Walter White", "alias": "B"},
+        {"id": 5, "name": "Naruto", "alias": "A"},
+        {"id": 6, "name": "Bender", "alias": "A"}
       ]
     }
   ],
   "results": {
-    "A": "Você muito provavelmente seria um Vilão!",
-    "B": "Você muito provavelmente seria um Herói!"
+    "A": "Você muito provavelmente prefere assistir desenhos!",
+    "B": "Você muito provavelmente prefere assistir séries!"
   }
 }

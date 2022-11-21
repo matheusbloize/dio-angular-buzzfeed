@@ -77,7 +77,6 @@ export class QuizComponent implements OnInit {
   }
 
   returnQuestion(){
-    console.log(this.questionIndex)
     if(this.questionIndex === 0) return
     this.questionSelected = this.questions[this.questionIndex - 1]
     this.questionIndex = this.questionIndex - 1

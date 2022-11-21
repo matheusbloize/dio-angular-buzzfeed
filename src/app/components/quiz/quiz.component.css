@@ -94,7 +94,8 @@
 
 
 .quiz-results p {
-    margin-bottom: 50px;
+    margin: 50px 0;
+    font-weight: bold;
 }
 
 .quiz-results button {
