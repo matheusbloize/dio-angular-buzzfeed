@@ -1,0 +1,69 @@
+{
+  "title": "Você prefere séries ou desenhos?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual super poder você se interessa mais?",
+      "options": [
+        {"id": 1, "name": "Virar um titã", "alias": "A"},
+        {"id": 2, "name": "Velocidade sobre-humana", "alias": "B"},
+        {"id": 3, "name": "Controlar os elementos", "alias": "A"},
+        {"id": 4, "name": "Recuperação imediata", "alias": "B"},
+        {"id": 5, "name": "Ter um corpo de borracha", "alias": "A"},
+        {"id": 5, "name": "Teletransporte", "alias": "B"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como seria um estilo de mundo fictício ideal?",
+      "options": [
+        {"id": 1, "name": "Pós-apocalíptico", "alias": "B"},
+        {"id": 2, "name": "Países e Reinos", "alias": "A"},
+        {"id": 3, "name": "Cyberpunk", "alias": "A"},
+        {"id": 4, "name": "Galáxias", "alias": "B"},
+        {"id": 5, "name": "Robôs, aliens e muita tecnologia", "alias": "A"},
+        {"id": 6, "name": "Super-heróis", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Qual aspecto da obra lhe interessa mais?",
+      "options": [
+        {"id": 1, "name": "Roteiro", "alias": "B"},
+        {"id": 2, "name": "Animação", "alias": "A"},
+        {"id": 3, "name": "Dublagem", "alias": "A"},
+        {"id": 4, "name": "Elenco", "alias": "B"},
+        {"id": 5, "name": "Efeitos especiais", "alias": "B"},
+        {"id": 6, "name": "Fidelidade", "alias": "A"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que seus personagens favoritos gostam de fazer?",
+      "options": [
+        {"id": 1, "name": "Comer até virar uma bola", "alias": "A"},
+        {"id": 2, "name": "Conseguir dinheiro para a família", "alias": "B"},
+        {"id": 3, "name": "Treinar para ser o melhor", "alias": "A"},
+        {"id": 4, "name": "Acabar com o preconceito entre raças", "alias": "A"},
+        {"id": 5, "name": "Esbanjar que é o mais forte", "alias": "B"},
+        {"id": 6, "name": "Ver TV e beber", "alias": "B"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual destes personagens você conhece melhor?",
+      "options": [
+        {"id": 1, "name": "Aang", "alias": "A"},
+        {"id": 2, "name": "Eleven", "alias": "B"},
+        {"id": 3, "name": "Negan", "alias": "B"},
+        {"id": 4, "name": "Walter White", "alias": "B"},
+        {"id": 5, "name": "Naruto", "alias": "A"},
+        {"id": 6, "name": "Bender", "alias": "A"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente prefere assistir desenhos!",
+    "B": "Você muito provavelmente prefere assistir séries!"
+  }
+}
